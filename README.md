@@ -70,7 +70,7 @@ Early releases are associated with progressive house. By the late 1990s, the pro
 - *Renaissance: The Mix Collection – Part 4* (1996)
 
 **Live play documentation**
-- Played by Sasha at Cream (Liverpool) and at club events in Toronto (video documentation exists)
+- Played by Sasha at Cream (Liverpool) and at club events in Toronto (recordings documentation exists)
 
 ---
 
