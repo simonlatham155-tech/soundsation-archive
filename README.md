@@ -3,16 +3,16 @@
 Soundsation is a UK electronic music project active during the mid–late 1990s, associated with progressive house and later vocal-led trance.
 
 ## Members
-- Simon Latham  
-- Warren Clarke (early member; departed 1995)  
 - Pete Lunn  
+- Simon Latham
 - Martyn “The Hat”
+- Warren Clarke (early member; departed 1995)  
 
 ## Active years
 - Early 1990s to late 1990s
 
 ## Style
-Early releases are associated with progressive house. By the late 1990s, the project moved toward vocal-led trance.
+Early releases are associated with house and progressive house. By the late 1990s, the project moved toward vocal-led trance.
 
 ---
 
@@ -93,3 +93,20 @@ Early releases are associated with progressive house. By the late 1990s, the pro
 ## Notes on documentation
 This archive lists only releases with verifiable chart data, broadcast history, compilation inclusion, or documented DJ support.  
 No claims of influence or genre creation are made beyond primary and secondary sources.
+
+## Sources
+
+- Official Charts Company – “Peace and Joy” by Soundsation  
+  https://www.officialcharts.com/songs/soundstation-peace-and-joy/
+
+- Discogs – Soundsation artist discography  
+  https://www.discogs.com/artist/22247-Soundsation
+
+- BBC Radio 1 – Essential Selection / Best of 1996 (27 December 1996)  
+  https://www.youtube.com/watch?v=6t_LarGg6Ao
+
+- BBC Radio 1 – Judge Jules 09/10/1998)  
+  https://soundcloud.com/petelunn/judge-jules-09-10-1998
+
+- Sasha - Live @ Cream, Nation - Liverpool - 15-06-96
+  https://soundcloud.com/oldskoolpool/sasha-live-cream-nation-liverpool-15-06-96
