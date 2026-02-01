@@ -14,6 +14,10 @@ Soundsation is a UK electronic music project active during the mid–late 1990s,
 ## Style
 Early releases are associated with house and progressive house. By the late 1990s, the project moved toward vocal-led trance.
 
+## Naming and attribution
+
+Across multiple releases, broadcasts, and online uploads, the artist name “Soundsation” has occasionally been stated or listed as “Soundstation”. This spelling variant appears in some BBC Radio 1 broadcasts, archive tracklists, and user-generated metadata. All such references refer to the same Soundsation releases documented on this page.
+
 ---
 
 ## Discography (documented)
