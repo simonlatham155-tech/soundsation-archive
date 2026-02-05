@@ -68,8 +68,7 @@ BBC Radio 1:
 - Later referenced on air as *John Digweed’s choice for 1996 by Pete Tong.
 
 Club support:
-- In addition to BBC Radio 1 support, the track was played extensively by Sasha during his residency sets at Cream, Liverpool, and in international club appearances. The record remained in circulation across progressive DJ sets well beyond its initial release window.
-- Continued circulation in progressive DJ sets beyond the initial release window
+- In addition to BBC Radio 1 support, the track was played by Sasha for example his residency set at Cream, Liverpool, and in international club appearances. The record remained in circulation across progressive DJ sets well beyond its initial release window.
 
 ---
 
