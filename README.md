@@ -65,10 +65,10 @@ BBC Radio 1:
 - Introduced by John Digweed as one of his favourite records of the year.
   “1996 has been a great year for me… as well as that I’ve been promoting the *Northern Exposure* album in America and the UK, which has both been really successful. I think one of my   favourite records of this year is a track by Soundsation and it’s called *Do You Feel It?*. Hope you like it, have a good Christmas and a happy new year.”
 
-- Later referenced on air as *John Digweed’s choice for 1996*
+- Later referenced on air as *John Digweed’s choice for 1996 by Pete Tong.
 
 Club support:
-- Played extensively by Sasha during Cream, Liverpool residencies
+- In addition to BBC Radio 1 support, the track was played extensively by Sasha during his residency sets at Cream, Liverpool, and in international club appearances. The record remained in circulation across progressive DJ sets well beyond its initial release window.
 - Continued circulation in progressive DJ sets beyond the initial release window
 
 ---
