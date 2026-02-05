@@ -1,116 +1,118 @@
-# Soundsation
+# Soundsation Archive (1994–1998)
 
-Soundsation is a UK electronic music project active during the mid–late 1990s, associated with progressive house and later vocal-led trance.
+A documented record of the UK electronic music project *Soundsation*, active between 1994 and 1998.
 
-## Members
-- Pete Lunn  
-- Simon Latham
-- Martyn “The Hat”
-- Warren Clarke (early member; departed 1995)  
-
-## Active years
-- Early 1990s to late 1990s
-
-## Style
-Early releases are associated with house and progressive house. By the late 1990s, the project moved toward vocal-led trance.
-
-## Naming and attribution
-
-Across multiple releases, broadcasts, and online uploads, the artist name “Soundsation” has occasionally been stated or listed as “Soundstation”. This spelling variant appears in some BBC Radio 1 broadcasts, archive tracklists, and user-generated metadata. All such references refer to the same Soundsation releases documented on this page.
+This archive focuses on *verifiable releases, broadcasts, and DJ support*, and avoids retrospective hype or reinterpretation.
 
 ---
 
-## Discography (documented)
+## Overview
 
-### Peace & Joy (1995)
+- UK electronic music project active 1994–1998
+- Early work rooted in the UK white-label sampling era, bridging rave-influenced dance music and emerging house forms
+- Transitioned into progressive house
+- Later documented an early shift toward melodic / uplifting trance
+- Did not pursue long-term commercial branding beyond the late 1990s
 
-**Release**
-- Year: 1995  
-- Label: FFRREedom  
-- Catalogue number: TABCD224  
+---
 
-**Chart performance**
-- UK Singles Chart peak position: **No. 48**
-- First chart date: **14 January 1995**
-- Weeks on chart: **2**
+## Members
 
-**Broadcast history**
-- BBC Radio 1 – Essential Selection
+- Pete Lunn
+- Simon Latham
+- Martyn “The Hat”
+- Warren Clarke – early member (departed 1995)  
 
-**Source**
-- Official Charts Company – “Peace and Joy” by Soundsation
+---
+
+## Key Releases
+
+### Peace & Joy (1994)
+
+- Format: White label (Smokin’ Vinyl – SMK 001)
+- Later release: FFRR / London Records
+- Remixes: Tin Tin Out, Shaker
+- UK Chart position: #48
+- Club support: Jeremy Healy
+
+Notes:
+- Circulated widely as a white label across UK clubs prior to commercial release
+- Early pressings contained an uncleared vocal sample, characteristic of the era
+- Club audiences later noted the absence of the sample on the retail version, indicating prior exposure to an earlier version
+- Legal intervention restricted commercial momentum
+- Following this release, the project moved away from major-label house pathways toward underground club music
 
 ---
 
 ### Faded Dream (1996)
 
-**Release**
-- Year: 1996
+- Featured on Future Music Magazine cover CD (June 1996)
 
-**Compilation appearance**
-- *Future Music* magazine cover CD, June 1996
+Notes:
+- Served as a technical endorsement of production and engineering standards
+- Positioned the project alongside contemporary studio-focused electronic acts
 
 ---
 
-### Do You Feel It (1996)
+### Do You Feel It? (1996)
 
-**Release**
-- Year: 1996  
-- Label: Stress Records  
-- Format: Single  
+- Label: Stress Records (12STR 88)
+- Remixes: Chris & James, Big C
+- Compilation: Renaissance – The Mix Collection Part 4
 
-**Broadcast history**
-- BBC Radio 1 – *Best of 1996*, **27 December 1996**
+BBC Radio 1:
+- 27 December 1996 – Essential Selection: Best of 1996
+- Introduced by John Digweed as one of his favourite records of the year
+- Later referenced on air as *John Digweed’s choice for 1996*
 
-**Primary source**
-> “1996 has been a great year for me… as well as that I’ve been promoting the *Northern Exposure* album in America and the UK, which has both been really successful. I think one of my favourite records of this year is a track by Soundsation and it’s called *Do You Feel It*. Hope you like it, have a good Christmas and a happy new year.”
->
-> — John Digweed, BBC Radio 1, *Best of 1996*, 27 December 1996
-
-**Additional broadcast**
-- BBC Radio 1 – *Essential Selection*, **7 February 1997**
-
-**Compilation appearances**
-- *Renaissance: The Mix Collection – Part 4* (1996)
-
-**Live play documentation**
-- Played by Sasha at Cream (Liverpool) and at club events in Toronto (recordings documentation exists)
+Club support:
+- Played extensively by Sasha during Cream, Liverpool residencies
+- Continued circulation in progressive DJ sets beyond the initial release window
 
 ---
 
 ### New Direction (1998)
 
-**Release**
-- Year: 1998  
-- Label: SOS Recordings  
-- Genre: Vocal-led trance  
+- Label: SOS Recordings
+- Format: Vinyl
+- Style: Melodic / uplifting trance
 
-**Broadcast history**
-- BBC Radio 1 – Judge Jules show, **October 1998**  
-  (Listed in some archive tracklists as “Soundstation – New Direction”, a transcription error)
-
-**Notes**
-- Represents a stylistic move toward vocal-led trance.
+Notes:
+- Documented a stylistic shift away from progressive house
+- Played by UK radio DJs including Judge Jules (occasionally credited as “Soundstation”)
+- Primarily circulated on vinyl
+- Released prior to large-scale trance platforms such as A State of Trance
+- Represents a transitional point between UK progressive sensibilities and emerging trance structures
 
 ---
 
-## Notes on documentation
-This archive lists only releases with verifiable chart data, broadcast history, compilation inclusion, or documented DJ support.  
-No claims of influence or genre creation are made beyond primary and secondary sources.
+## SOS Recordings
 
-## Sources
+- Independent imprint associated with Soundsation
+- Functioned as a test bed for releases outside major-label constraints
+- Limited output
+- Records circulated primarily within DJ and vinyl-focused networks
+- Catalogue documented on Discogs
 
-- Official Charts Company – “Peace and Joy” by Soundsation  
-  https://www.officialcharts.com/songs/soundstation-peace-and-joy/
+---
 
-- Discogs – Soundsation artist discography  
-  https://www.discogs.com/artist/22247-Soundsation
+## Context & Legacy
 
-- BBC Radio 1 – Essential Selection / Best of 1996 (27 December 1996)  
-  https://www.youtube.com/watch?v=6t_LarGg6Ao
+- Underground circulation prior to chart exposure
+- Inclusion on defining progressive house compilations
+- BBC Radio 1 endorsement
+- Sustained DJ support during the mid-1990s formative period
 
-- BBC Radio 1 – Judge Jules 09/10/1998)  
-  https://soundcloud.com/petelunn/judge-jules-09-10-1998
+This archive does not argue for re-evaluation or elevation.  
+It exists to ensure *accurate historical placement*.
 
-- Sasha - Live @ Cream, Nation - Liverpool - 15-06-96
-  https://soundcloud.com/oldskoolpool/sasha-live-cream-nation-liverpool-15-06-96
+---
+
+## Resources
+
+- BBC Radio 1 – Essential Selection, 27 December 1996 https://www.youtube.com/watch?v=6t_LarGg6Ao
+- Renaissance – The Mix Collection Part 4 https://www.youtube.com/watch?v=QSbvJVEISTY
+- Stress Records catalogue (12STR 88) https://www.youtube.com/watch?v=1qAldLR390c&list=RD1qAldLR390c&start_radio=1
+- Discogs: Soundsation / SOS Recordings https://www.discogs.com/artist/22247-Soundsation
+- Future Music Magazine – June 1996 https://www.discogs.com/release/234275-Various-FMCD-June-1996
+- Sasha - Live @ Cream, Nation - Liverpool - 15-06-96 https://soundcloud.com/oldskoolpool/sasha-live-cream-nation-liverpool-15-06-96
