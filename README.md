@@ -118,7 +118,7 @@ It exists to ensure *accurate historical placement*.
 - Stress Records catalogue (12STR 88) https://www.youtube.com/watch?v=1qAldLR390c&list=RD1qAldLR390c&start_radio=1
 - Discogs: Soundsation / SOS Recordings https://www.discogs.com/artist/22247-Soundsation
 - Future Music Magazine – June 1996 https://www.discogs.com/release/234275-Various-FMCD-June-1996
-- Sasha - Live @ Cream, Nation - Liverpool - 15-06-96 https://soundcloud.com/oldskoolpool/sasha-live-cream-nation-liverpool-15-06-96
+- Sasha - Live @ Cream, Nation - Liverpool - 15-06-96 [https://hearthis.at/ewtbtdj/-19960615-sasha-live-cream-nation-liverpool/)
 
 ---
 
