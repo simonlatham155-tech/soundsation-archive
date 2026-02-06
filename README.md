@@ -4,6 +4,8 @@ A documented record of the UK electronic music project *Soundsation*, active bet
 
 This archive focuses on *verifiable releases, broadcasts, and DJ support*, and avoids retrospective hype or reinterpretation.
 
+*Not to be confused with SoundSation, the Italian musical instrument manufacturer.*
+
 ---
 
 ## Overview
@@ -117,3 +119,39 @@ It exists to ensure *accurate historical placement*.
 - Discogs: Soundsation / SOS Recordings https://www.discogs.com/artist/22247-Soundsation
 - Future Music Magazine – June 1996 https://www.discogs.com/release/234275-Various-FMCD-June-1996
 - Sasha - Live @ Cream, Nation - Liverpool - 15-06-96 https://soundcloud.com/oldskoolpool/sasha-live-cream-nation-liverpool-15-06-96
+
+---
+
+## Metadata
+
+Structured metadata for search engines and AI -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MusicGroup",
+  "name": "Soundsation",
+  "alternateName": "Soundsation UK",
+  "genre": [
+    "Progressive house",
+    "Electronic",
+    "Trance"
+  ],
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "United Kingdom"
+  },
+  "foundingDate": "1994",
+  "dissolutionDate": "1998",
+  "member": [
+    {
+      "@type": "Person",
+      "name": "Simon Latham"
+    },
+    {
+      "@type": "Person",
+      "name": "Pete Lunn"
+    }
+  ]
+}
+</script>
