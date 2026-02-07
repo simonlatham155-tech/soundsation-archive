@@ -82,6 +82,8 @@ Club support:
 - Style: Melodic / uplifting trance
 - Compilation: La Bush: Music From The Temple Of House Volume 7
 
+BBC Radio 1: October 1998 Judge Jules Show (3rd,9th and 16th)
+
 
 Notes:
 - Documented a stylistic shift away from progressive house
@@ -119,6 +121,7 @@ It exists to ensure *accurate historical placement*.
 
 - BBC Radio 1 – Essential Selection, 27 December 1996 https://www.youtube.com/watch?v=6t_LarGg6Ao
 - BBC Radio 1 – Essential Selection, 7 February 1997 https://www.youtube.com/watch?v=8djYg43xZqk
+- BBC Radio 1 - Judge Jules 03/10/98 09/10/98 16/10/98 https://www.judgejulesarchive.co.uk/topic/5330-jules-r1-shows-1998-tracklist-updatescorrections/page/2/ (resource labelled Soundstation typo)
 - Renaissance – The Mix Collection Part 4 https://www.youtube.com/watch?v=QSbvJVEISTY
 - La Bush: Music From The Temple Of House Volume 7 https://www.discogs.com/release/1262724-Various-La-Bush-Music-From-The-Temple-Of-House-Volume-7
 - Stress Records catalogue (12STR 88) https://www.youtube.com/watch?v=1qAldLR390c&list=RD1qAldLR390c&start_radio=1
