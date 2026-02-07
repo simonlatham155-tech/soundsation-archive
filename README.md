@@ -36,6 +36,7 @@ This archive focuses on *verifiable releases, broadcasts, and DJ support*, and a
 - Remixes: Tin Tin Out, Shaker
 - UK Chart position: #48
 - Club support: Jeremy Healy
+- Compilation: The House Collection - Club Classics
 
 Notes:
 - Circulated widely as a white label across UK clubs prior to commercial release
@@ -128,7 +129,7 @@ It exists to ensure *accurate historical placement*.
 - Discogs: Soundsation / SOS Recordings https://www.discogs.com/artist/22247-Soundsation
 - Future Music Magazine – June 1996 https://www.discogs.com/release/234275-Various-FMCD-June-1996
 - Sasha - Live @ Cream, Nation - Liverpool - 15-06-96 [https://hearthis.at/ewtbtdj/-19960615-sasha-live-cream-nation-liverpool/)
-
+- The House Collection - Club Classics https://www.discogs.com/release/114127-Brandon-Block-Luv-Dup-Mike-Cosford-The-House-Collection-Club-Classics
 ---
 
 ## Metadata
