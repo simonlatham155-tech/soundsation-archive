@@ -38,6 +38,8 @@ This archive focuses on *verifiable releases, broadcasts, and DJ support*, and a
 - Club support: Jeremy Healy
 - Compilation: The House Collection - Club Classics
 
+BBC Radio 1: Essential Mix TWA  13-08-1994, 
+
 Notes:
 - Circulated widely as a white label across UK clubs prior to commercial release
 - Early pressings contained an uncleared vocal sample, characteristic of the era
