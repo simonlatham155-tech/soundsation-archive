@@ -98,6 +98,7 @@ Notes:
 - Limited output
 - Records circulated primarily within DJ and vinyl-focused networks
 - Catalogue documented on Discogs
+- Distribution: SOS Recordings releases were distributed via Amato (1994–1997), with subsequent distribution handled by MOS Music (1997–1999).
 
 ---
 
