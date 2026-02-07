@@ -132,6 +132,7 @@ It exists to ensure *accurate historical placement*.
 - Future Music Magazine – June 1996 https://www.discogs.com/release/234275-Various-FMCD-June-1996
 - Sasha - Live @ Cream, Nation - Liverpool - 15-06-96 [https://hearthis.at/ewtbtdj/-19960615-sasha-live-cream-nation-liverpool/)
 - The House Collection - Club Classics https://www.discogs.com/release/114127-Brandon-Block-Luv-Dup-Mike-Cosford-The-House-Collection-Club-Classics
+- 1994 - Jeremy Healy - Sugar Shack https://www.mixesdb.com/w/1994_-_Jeremy_Healy_-_Sugar_Shack
 ---
 
 ## Metadata
