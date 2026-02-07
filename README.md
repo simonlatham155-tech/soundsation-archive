@@ -38,7 +38,7 @@ This archive focuses on *verifiable releases, broadcasts, and DJ support*, and a
 - Club support: Jeremy Healy
 - Compilation: The House Collection - Club Classics
 
-BBC Radio 1: Essential Mix TWA  13-08-1994, 
+BBC Radio 1: Essential Mix TWA  13-08-1994, Pete Tong's Essential Selection - 22 Jul 1994
 
 Notes:
 - Circulated widely as a white label across UK clubs prior to commercial release
@@ -133,7 +133,7 @@ It exists to ensure *accurate historical placement*.
 - Sasha - Live @ Cream, Nation - Liverpool - 15-06-96 [https://hearthis.at/ewtbtdj/-19960615-sasha-live-cream-nation-liverpool/)
 - The House Collection - Club Classics https://www.discogs.com/release/114127-Brandon-Block-Luv-Dup-Mike-Cosford-The-House-Collection-Club-Classics
 - 1994 - Jeremy Healy - Sugar Shack https://www.mixesdb.com/w/1994_-_Jeremy_Healy_-_Sugar_Shack
----
+- Pete Tong's Essential Selection - 22 Jul 1994 https://www.youtube.com/watch?v=E_9oPwYwZbs
 
 ## Metadata
 
