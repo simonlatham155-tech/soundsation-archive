@@ -83,7 +83,7 @@ Club support:
 - Style: Melodic / uplifting trance
 - Compilation: La Bush: Music From The Temple Of House Volume 7
 
-BBC Radio 1: October 1998 Judge Jules Show (3rd,9th and 16th)
+BBC Radio 1: Judge Jules Show October 1998 (3rd,9th and 16th)
 
 
 Notes:
