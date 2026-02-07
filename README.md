@@ -134,6 +134,7 @@ It exists to ensure *accurate historical placement*.
 - The House Collection - Club Classics https://www.discogs.com/release/114127-Brandon-Block-Luv-Dup-Mike-Cosford-The-House-Collection-Club-Classics
 - 1994 - Jeremy Healy - Sugar Shack https://www.mixesdb.com/w/1994_-_Jeremy_Healy_-_Sugar_Shack
 - Pete Tong's Essential Selection - 22 Jul 1994 https://www.youtube.com/watch?v=E_9oPwYwZbs
+- Essential mix TWA 1994-08-13 https://www.mixcloud.com/mixing-cloud/twa-essential-mix-1994-08-13/
 
 ## Metadata
 
