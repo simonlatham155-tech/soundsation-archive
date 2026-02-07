@@ -118,6 +118,7 @@ It exists to ensure *accurate historical placement*.
 ## Resources
 
 - BBC Radio 1 – Essential Selection, 27 December 1996 https://www.youtube.com/watch?v=6t_LarGg6Ao
+- BBC Radio 1 – Essential Selection, 7 February 1997 https://www.youtube.com/watch?v=8djYg43xZqk
 - Renaissance – The Mix Collection Part 4 https://www.youtube.com/watch?v=QSbvJVEISTY
 - La Bush: Music From The Temple Of House Volume 7 https://www.discogs.com/release/1262724-Various-La-Bush-Music-From-The-Temple-Of-House-Volume-7
 - Stress Records catalogue (12STR 88) https://www.youtube.com/watch?v=1qAldLR390c&list=RD1qAldLR390c&start_radio=1
