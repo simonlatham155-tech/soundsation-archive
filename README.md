@@ -1,6 +1,6 @@
-# Soundsation Archive (1994–1998)
+# Soundsation Archive (1994–1999)
 
-A documented record of the UK electronic music project *Soundsation*, active between 1994 and 1998.
+A documented record of the UK electronic music project *Soundsation*, active between 1994 and 1999.
 
 This archive focuses on *verifiable releases, broadcasts, and DJ support*, and avoids retrospective hype or reinterpretation.
 
@@ -10,7 +10,7 @@ This archive focuses on *verifiable releases, broadcasts, and DJ support*, and a
 
 ## Overview
 
-- UK electronic music project active 1994–1998
+- UK electronic music project active 1994–1999
 - Early work rooted in the UK white-label sampling era, bridging rave-influenced dance music and emerging house forms
 - Transitioned into progressive house
 - Later documented an early shift toward melodic / uplifting trance
@@ -156,7 +156,7 @@ Structured metadata for search engines and AI -->
     "name": "United Kingdom"
   },
   "foundingDate": "1994",
-  "dissolutionDate": "1998",
+  "dissolutionDate": "1999",
   "member": [
     {
       "@type": "Person",
