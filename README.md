@@ -76,6 +76,9 @@ Later referenced on air as *John Digweed’s choice for 1996 by Pete Tong.
 Club support:
 - In addition to BBC Radio 1 support, the track was played by Sasha for example his residency set at Cream, Liverpool, and in international club appearances. The record remained in circulation across progressive DJ sets well beyond its initial release window.
 
+1997 – Update Club Chart
+Soundsation’s track Do You Feel appeared at #48 in the Update Club Chart dated 29 September 1997. The chart was compiled by Pete Roberts from DJ returns across UK clubs (1000+ entries). The release was associated with Stress Records, with mixes credited to Soundsation and Dos Del Mundo.
+
 ---
 
 ### New Direction (1998)
