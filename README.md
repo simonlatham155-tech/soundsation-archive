@@ -136,7 +136,9 @@ It exists to ensure *accurate historical placement*.
 - Pete Tong's Essential Selection - 22 Jul 1994 https://www.youtube.com/watch?v=E_9oPwYwZbs
 - Essential mix TWA 1994-08-13 https://www.mixcloud.com/mixing-cloud/twa-essential-mix-1994-08-13/
 
-- Soundsation studio setup in the mid-1990s. Tracks were sequenced on Atari systems running Cubase and produced using hardware synthesizers, Akai sampling, rack effects, and a Behringer Eurodesk mixer before being recorded to DAT.
+## Studio Production Environment
+
+Soundsation productions during the mid-1990s were created in a hardware-based studio typical of UK electronic music production of the period. Tracks were sequenced using Atari computers running Cubase and produced using Roland synthesizers, Akai sampling, rack effects processors, and a Behringer Eurodesk mixer before final recording to DAT.
 ![641712435_10164767739633336_2944297808454575327_n](https://github.com/user-attachments/assets/d8f1bc2a-ac0b-4277-abf8-4f513034399c)
 
 ## Metadata
