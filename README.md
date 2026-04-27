@@ -63,6 +63,7 @@ Notes:
 
 - Label: Stress Records (12STR 88)
 - Remixes: Chris & James, Big C
+- Official Dance Singles Chart on 7/6/1998 no.39
 - Compilation: Renaissance – The Mix Collection Part 4
 
 BBC Radio 1:
@@ -138,6 +139,7 @@ It exists to ensure *accurate historical placement*.
 - 1994 - Jeremy Healy - Sugar Shack https://www.mixesdb.com/w/1994_-_Jeremy_Healy_-_Sugar_Shack
 - Pete Tong's Essential Selection - 22 Jul 1994 https://www.youtube.com/watch?v=E_9oPwYwZbs
 - Essential mix TWA 1994-08-13 https://www.mixcloud.com/mixing-cloud/twa-essential-mix-1994-08-13/
+- UK Official charts / Dance singles chart https://www.officialcharts.com/charts/dance-singles-chart/19980607/104/
 
 ## Studio Production Environment
 
