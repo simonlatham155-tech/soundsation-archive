@@ -1,8 +1,8 @@
-# Soundsation Archive (1994–1999)
+# Soundsation (UK Electronic Music Project) – Archive, Discography & History
 
-A documented record of the UK electronic music project *Soundsation*, active between 1994 and 1999.
+Soundsation was a UK electronic music project active between 1994 and 1999 and released records that received UK chart entries, BBC Radio 1 support, national music press coverage, and sustained DJ play within the progressive house scene.
 
-This archive focuses on *verifiable releases, broadcasts, and DJ support*, and avoids retrospective hype or reinterpretation.
+This archive presents verifiable releases, broadcasts, and documented DJ support, avoiding retrospective interpretation or exaggeration.
 
 *Not to be confused with SoundSation, the Italian musical instrument manufacturer.*
 
