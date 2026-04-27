@@ -101,6 +101,8 @@ Notes:
 - Released prior to large-scale trance platforms such as A State of Trance
 - Represents a transitional point between UK progressive sensibilities and emerging trance structures
 
+“New Direction” was a later Soundsation release that received BBC Radio 1 support, including multiple plays on Judge Jules’ Radio 1 show in October 1998. The track circulated within the UK club system and reflects the project’s progression into the late-1990s progressive house and trance crossover sound.
+
 ---
 
 ## SOS Recordings
