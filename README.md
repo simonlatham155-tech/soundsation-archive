@@ -7,6 +7,7 @@ The project achieved UK chart entries, BBC Radio 1 support, national music press
 This archive documents verified releases, broadcasts, and DJ support based on contemporary sources.
 
 Not to be confused with SoundSation, the Italian musical instrument manufacturer.
+
 ---
 
 ## Overview
