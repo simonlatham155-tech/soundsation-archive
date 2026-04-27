@@ -1,6 +1,6 @@
 # Soundsation (UK Electronic Music Project) – Archive, Discography & History
 
-Soundsation was a UK electronic music project active between 1994 and 1999 and released records that received UK chart entries, BBC Radio 1 support, national music press coverage, and sustained DJ play within the progressive house scene.
+Soundsation was a UK electronic music project active between 1994 and 1999, known for releases including “Do You Feel It” and “Peace & Joy”. The project achieved UK chart entries, BBC Radio 1 support, and coverage in DJ Magazine and Muzik.
 
 This archive presents verifiable releases, broadcasts, and documented DJ support, avoiding retrospective interpretation or exaggeration.
 
