@@ -4,10 +4,11 @@ Soundsation was a UK electronic music project active between 1994 and 1999, know
 
 The project achieved UK chart entries, BBC Radio 1 support, national music press coverage, and sustained DJ play within the progressive house scene.
 
+Soundsation’s releases circulated within the UK club system and were supported by DJs including John Digweed and Judge Jules, with coverage in DJ Magazine and Muzik.
+
 This archive documents verified releases, broadcasts, and DJ support based on contemporary sources.
 
 Not to be confused with SoundSation, the Italian musical instrument manufacturer.
-
 ---
 
 ## Overview
