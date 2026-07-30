@@ -32,7 +32,7 @@ Both documented performances used the version then circulating: the **Full Lengt
 
 Sasha and Digweed later described the 0°/North disc as drawing on records they listened to after a night out, including music that was not suitable for their club sets. [Their account of making *Northern Exposure*](https://www.grammy.com/news/sasha-john-digweed-northern-exposure-25th-album-anniversary-record/) explains why the compilation should not be treated as a complete picture of what they were playing on club floors.
 
-“Do You Feel It?” therefore supplies a documented piece of the parallel story: the club-facing progressive sound heard around the same moment. The combination of dated Sasha club plays before and after the album, Digweed's year-end BBC selection, and a later Official UK Dance Chart entry makes it an unusually well-documented record from this surrounding club era.
+“Do You Feel It?” therefore supplies a documented piece of the parallel story: the club-facing progressive sound heard around the same moment. It was not necessarily the only such club record. What may be unique is the surviving evidence chain: dated Sasha club plays before and after the album, followed by Digweed's year-end BBC selection while discussing the *Northern Exposure* campaign, plus a later Official UK Dance Chart entry. No other currently located public source assembles that same sequence of evidence.
 
 ## John Digweed's direct 1996 selection
 
