@@ -32,9 +32,9 @@ Not to be confused with SoundSation, the Italian musical instrument manufacturer
 
 ## John Digweed's favourite record of 1996
 
-On BBC Radio 1's *Essential Selection: Best of 1996*, John Digweed named Soundsation's **“Do You Feel It?”** as **one of his favourite records of the year**. Pete Tong later described it on air as **“John Digweed's big tune of ’96.”**
+On BBC Radio 1's *Essential Selection: Best of 1996*, John Digweed named Soundsation's **“Do You Feel It?”** as **one of his favourite records of the year**. Pete Tong later described it on BBC Radio 1's *Essential Selection* on 7 February 1997 as **“John Digweed's big tune of ’96.”**
 
-The Full Length Trance Mix from the scarce 1,000-copy SOS Recordings promo, 12 SOS-002, appears in Sasha's surviving club sets from Cream, Liverpool, on 15 June 1996 and Better Days/Good Life, Toronto, on 28 November 1996. The promo was subsequently withdrawn/banned. The later 12SOS003 edition explains Pete Tong's February 1997 contrast: Digweed had previously been the only person with it, “but we can all have it now.”
+The Full Length Trance Mix from the scarce 1,000-copy SOS Recordings promo, 12 SOS-002, appears in Sasha's surviving club sets from Cream, Liverpool, on 15 June 1996 and Better Days/Good Life, Toronto, on 28 November 1996. The promo was subsequently withdrawn/banned. The later 12SOS003 edition explains Pete Tong's 7 February 1997 *Essential Selection* contrast: Digweed had previously been the only person with it, “but we can all have it now.”
 
 **[Listen to Soundsation – “Do You Feel It?” (Full Length Trance Mix, SOS 002)](https://www.youtube.com/watch?v=jHZJLkCERcM)**
 
