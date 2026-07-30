@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "What was John Digweed's favourite record of 1996?"
-description: "BBC Radio 1 evidence: John Digweed named Soundsation's Do You Feel It? as one of his favourite records of 1996; Pete Tong called it his big tune of '96."
+description: "Digweed named Soundsation's Do You Feel It? as a favourite of 1996, while Sasha played it at Cream during the Northern Exposure year."
 permalink: /john-digweed-favourite-record-1996/
 ---
 
@@ -27,11 +27,22 @@ That precise wording matters: the surviving broadcast does not establish it as h
 
 [Hear the subsequent Pete Tong broadcast](https://www.youtube.com/watch?v=8djYg43xZqk).
 
-## Why this matters to the Northern Exposure history
+## *Northern Exposure* at home; “Do You Feel It?” in the club
 
-Digweed's December 1996 introduction places “Do You Feel It?” directly inside the period now associated with the first *Northern Exposure* album: he mentions promoting the compilation in America and the UK immediately before selecting the Soundsation track.
+A useful way to understand the relationship is that *Northern Exposure* captured the home-listening and after-hours journey, while “Do You Feel It?” documents the club-floor side of the same 1996 Sasha and Digweed moment.
 
-The evidence therefore supports a specific historical statement: **“Do You Feel It?” was one of John Digweed's favourite records of 1996 and was later called his big tune of the year by Pete Tong.** It does not claim that the record appeared on *Northern Exposure*, because it did not.
+Sasha and Digweed later explained that the 0°/North disc drew on records they listened to after a night out, including music that was not appropriate for a club set. The compilation reshaped those home-stereo selections into a continuous journey. [Read the account and their 1997 comments](https://www.grammy.com/news/sasha-john-digweed-northern-exposure-25th-album-anniversary-record/).
+
+By contrast, a surviving tracklist from **Sasha at Cream, Liverpool, on 15 June 1996** places Soundsation's “Do You Feel It?” at approximately 88 minutes in his club set. This was just over three months before *Northern Exposure* was released on 27 September 1996. [See the dated Sasha at Cream tracklist](https://www.mixesdb.com/w/1996-06-15_-_Sasha_%40_Cream%2C_Liverpool).
+
+| Date | Evidence | What it establishes |
+|---|---|---|
+| 15 June 1996 | Sasha plays “Do You Feel It?” at Cream, Liverpool | The record was part of Sasha's club sound during the *Northern Exposure* year |
+| 27 September 1996 | *Northern Exposure* is released | The home-listening document of the same progressive-house period |
+| 27 December 1996 | Digweed selects “Do You Feel It?” on BBC Radio 1 immediately after discussing the *Northern Exposure* campaign | A direct contemporary link between the record and Digweed's 1996 |
+| 7 February 1997 | Pete Tong calls it Digweed's “big tune of ’96” | Independent on-air confirmation of its standing in Digweed's sets |
+
+This is a **documented cultural and chronological link**, not a tracklisting claim: “Do You Feel It?” did not appear on *Northern Exposure*. The evidence supports describing it as a club-side companion to the mix-CD era, as well as one of John Digweed's favourite records of 1996.
 
 ## Record details
 
@@ -54,7 +65,7 @@ The evidence therefore supports a specific historical statement: **“Do You Fee
     "name": "What was John Digweed's favourite record of 1996?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "On BBC Radio 1 on 27 December 1996, John Digweed named Soundsation's Do You Feel It? as one of his favourite records of 1996. On 7 February 1997, Pete Tong described it as John Digweed's big tune of '96. The evidence does not establish it as Digweed's sole or number-one favourite."
+      "text": "On BBC Radio 1 on 27 December 1996, John Digweed named Soundsation's Do You Feel It? as one of his favourite records of 1996. Sasha had played it at Cream, Liverpool, on 15 June 1996 during the Northern Exposure year. On 7 February 1997, Pete Tong described it as John Digweed's big tune of '96. This is a chronological and cultural link; the track did not appear on Northern Exposure."
     }
   }
 }
