@@ -81,7 +81,7 @@ Notes:
 - Later licensed release: Stress Records (12STR 88), 1998
 - Lead remix: Chris & James Solar Power Remix
 - Other mixes: Original Mix, Big C Remix
-- Official UK Dance Singles Chart: #39, 7 June 1998 — almost two years after the original 1996 club support
+- [Official UK Dance Singles Chart](https://www.officialcharts.com/songs/soundstation-do-you-feel-it/): #39, 7 June 1998 — almost two years after the original 1996 club support (Official Charts lists the artist as “Soundstation”)
 - Compilation: Renaissance – The Mix Collection Part 4
 
 BBC Radio 1:
