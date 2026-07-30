@@ -11,7 +11,7 @@ permalink: /john-digweed-favourite-record-1996/
 
 John Digweed named **Soundsation – “Do You Feel It?”** as **one of his favourite records of 1996** during BBC Radio 1's *Essential Selection: Best of 1996* on 27 December 1996.
 
-**[Listen to Soundsation – “Do You Feel It?” (Original Mix)](https://www.youtube.com/watch?v=w9FuMT4PFq8)**
+**[Listen to Soundsation – “Do You Feel It?” (Full Length Trance Mix, SOS 002)](https://www.youtube.com/watch?v=jHZJLkCERcM)**
 
 That precise wording matters: the surviving broadcast does not establish it as his sole or number-one favourite. Pete Tong subsequently described it on air as **“John Digweed's big tune of ’96.”**
 
@@ -39,7 +39,7 @@ By contrast, a surviving tracklist from **Sasha at Cream, Liverpool, on 15 June 
 
 The record appears again in the surviving **Better Days/Good Life recording from Toronto on 28 November 1996**. The detailed tracklist assigns “Do You Feel It?” at 58:40 to the Sasha section, before the recording moves into the John E or possible back-to-back portion. [See the timed Toronto tracklist](https://moxser.com/mixes/sasha-john-e-live-better-days-good-life-toronto-28-11-1996). An [independent tracklist archive](https://tracklistings.co.uk/bradyman/sasha-better.htm) also identifies it as track 11.
 
-Together, Cream and Toronto document the record in Sasha's club sets on both sides of the Atlantic during the *Northern Exposure* year. Both performances predate the later Stress Records edition: the version then in circulation was the 1996 SOS Recordings release, catalogue 12SOS003.
+Together, Cream and Toronto document the record in Sasha's club sets on both sides of the Atlantic during the *Northern Exposure* year. Both performances used the version then in circulation: the 1996 **Full Length Trance Mix on the SOS Recordings promo, catalogue 12 SOS-002**. The SOS 003 and Stress editions followed later.
 
 | Date | Evidence | What it establishes |
 |---|---|---|
@@ -56,10 +56,11 @@ This is a **documented cultural and chronological link**, not a tracklisting cla
 - Artist: Soundsation
 - Title: “Do You Feel It?”
 - Year: 1996
-- Original 1996 release: SOS Recordings
-- Original catalogue: 12SOS003
-- Listen: [Original SOS Mix on YouTube](https://www.youtube.com/watch?v=w9FuMT4PFq8)
-- Original-release documentation: [SOS Recordings 12SOS003 on Discogs](https://www.discogs.com/release/178855-Soundsation-Do-You-Feel-It)
+- Version played in the documented 1996 sets: Full Length Trance Mix
+- Original promo: SOS Recordings, 12 SOS-002
+- Listen: [Full Length Trance Mix on YouTube](https://www.youtube.com/watch?v=jHZJLkCERcM)
+- Original-promo documentation: [SOS Recordings 12 SOS-002 on Discogs](https://www.discogs.com/release/1339622-Soundsation-Do-You-Feel-It-Youre-The-One-For-Me)
+- Later SOS edition: 12SOS003
 - Later licensed release: Stress Records, 12STR 88
 - Compilation appearance: *Renaissance – The Mix Collection Part 4*
 - Documented support: John Digweed, Pete Tong and Sasha
