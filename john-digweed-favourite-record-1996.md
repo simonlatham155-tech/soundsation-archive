@@ -21,7 +21,7 @@ That precise wording matters: the surviving broadcast does not establish it as h
 
 > “1996 has been a great year for me… as well as that I've been promoting the *Northern Exposure* album in America and the UK, which has both been really successful. I think one of my favourite records of this year is a track by Soundsation and it's called *Do You Feel It?*. Hope you like it, have a good Christmas and a happy new year.”
 
-[Hear the surviving BBC Radio 1 recording](https://www.youtube.com/watch?v=6t_LarGg6Ao).
+[Hear the surviving BBC Radio 1 recording](https://www.youtube.com/watch?v=uVDa0HVZVjc).
 
 ### Pete Tong — BBC Radio 1 *Essential Selection*, 7 February 1997
 
