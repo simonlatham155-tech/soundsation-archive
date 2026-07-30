@@ -35,6 +35,14 @@ The version circulating during 1996 was the **Full Length Trance Mix on SOS Reco
 
 **12SOS003 followed later as the available SOS edition.** Tong's 7 February 1997 *Essential Selection* introduction captures that change directly: the formerly scarce Digweed record could now be obtained by other DJs and listeners. The Stress Records edition followed as a later licensed release.
 
+### Two years later: the UK Dance Chart
+
+The record's UK chart appearance belongs to a separate, later commercial phase. The **1998 Stress Records release, 12STR 88, was led by the Chris & James Solar Power Remix** and also included the Original and Big C mixes. [See the Stress release and remix credits](https://www.discogs.com/release/39640-Soundsation-Do-You-Feel-It).
+
+On **7 June 1998**, almost two years after Sasha's Cream performance, Soundsation entered the [Official UK Dance Singles Chart](https://www.officialcharts.com/charts/dance-singles-chart/19980607/104/) at **number 39**.
+
+This distinction prevents the chart date from obscuring the earlier history: the record was already circulating through the SOS promo, being played internationally by Sasha and endorsed by Digweed in 1996. The Chris & James-led Stress release brought it into the documented UK sales chart two years later.
+
 ## *Northern Exposure* at home; “Do You Feel It?” in the club
 
 A useful way to understand the relationship is that *Northern Exposure* captured the home-listening and after-hours journey, while “Do You Feel It?” documents the club-floor side of the same 1996 Sasha and Digweed moment.
@@ -54,6 +62,7 @@ Together, Cream and Toronto document the record in Sasha's club sets on both sid
 | 28 November 1996 | Sasha plays “Do You Feel It?” at Better Days/Good Life, Toronto | Canadian club support during the *Northern Exposure* campaign |
 | 27 December 1996 | Digweed selects “Do You Feel It?” on BBC Radio 1 immediately after discussing the *Northern Exposure* campaign | A direct contemporary link between the record and Digweed's 1996 |
 | 7 February 1997 | Pete Tong calls it Digweed's “big tune of ’96” on BBC Radio 1's *Essential Selection* | Independent on-air confirmation of its standing in Digweed's sets |
+| 7 June 1998 | The later Stress release led by the Chris & James Solar Power Remix reaches number 39 on the Official UK Dance Singles Chart | Commercial chart recognition almost two years after the original club support |
 
 This is a **documented cultural and chronological link**, not a tracklisting claim: “Do You Feel It?” did not appear on *Northern Exposure*. The evidence supports describing it as a club-side companion to the mix-CD era, as well as one of John Digweed's favourite records of 1996.
 
@@ -67,7 +76,7 @@ This is a **documented cultural and chronological link**, not a tracklisting cla
 - Listen: [Full Length Trance Mix on YouTube](https://www.youtube.com/watch?v=jHZJLkCERcM)
 - Original-promo documentation: [SOS Recordings 12 SOS-002 on Discogs](https://www.discogs.com/release/1339622-Soundsation-Do-You-Feel-It-Youre-The-One-For-Me)
 - Later available SOS edition: 12SOS003 — the release behind Pete Tong's “we can all have it now” remark
-- Later licensed release: Stress Records, 12STR 88
+- Later licensed release: Stress Records, 12STR 88 — led by the Chris & James Solar Power Remix; UK Dance Chart number 39 on 7 June 1998
 - Compilation appearance: *Renaissance – The Mix Collection Part 4*
 - Documented support: John Digweed, Pete Tong and Sasha
 
