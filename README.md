@@ -34,7 +34,7 @@ Not to be confused with SoundSation, the Italian musical instrument manufacturer
 
 On BBC Radio 1's *Essential Selection: Best of 1996*, John Digweed named Soundsation's **“Do You Feel It?”** as **one of his favourite records of the year**. Pete Tong later described it on BBC Radio 1's *Essential Selection* on 7 February 1997 as **“John Digweed's big tune of ’96.”**
 
-The Full Length Trance Mix from the scarce 1,000-copy SOS Recordings promo, 12 SOS-002, appears in Sasha's surviving club sets from Cream, Liverpool, on 15 June 1996 and Better Days/Good Life, Toronto, on 28 November 1996. The promo was subsequently withdrawn/banned. The later 12SOS003 edition explains Pete Tong's 7 February 1997 *Essential Selection* contrast: Digweed had previously been the only person with it, “but we can all have it now.”
+The Full Length Trance Mix from the scarce 1,000-copy SOS Recordings promo, 12 SOS-002, appears in Sasha's surviving club sets from Cream, Liverpool, on 15 June 1996 and Better Days/Good Life, Toronto, on 28 November 1996. The promo was subsequently withdrawn/banned. The later 12SOS003 edition explains Pete Tong's 7 February 1997 *Essential Selection* contrast: Digweed had previously been the only person with it, “but we can all have it now.” Almost two years after the original club support, the 1998 Stress release led by the Chris & James Solar Power Remix reached number 39 on the Official UK Dance Singles Chart.
 
 **[Listen to Soundsation – “Do You Feel It?” (Full Length Trance Mix, SOS 002)](https://www.youtube.com/watch?v=jHZJLkCERcM)**
 
@@ -78,9 +78,10 @@ Notes:
 
 - Original 1996 promo: SOS Recordings (12 SOS-002) – Full Length Trance Mix; 1,000 copies, subsequently withdrawn/banned
 - Later available SOS edition: 12SOS003
-- Later licensed release: Stress Records (12STR 88)
-- Remixes: Chris & James, Big C
-- Official Dance Singles Chart on 7/6/1998 no.39
+- Later licensed release: Stress Records (12STR 88), 1998
+- Lead remix: Chris & James Solar Power Remix
+- Other mixes: Original Mix, Big C Remix
+- Official UK Dance Singles Chart: #39, 7 June 1998 — almost two years after the original 1996 club support
 - Compilation: Renaissance – The Mix Collection Part 4
 
 BBC Radio 1:
