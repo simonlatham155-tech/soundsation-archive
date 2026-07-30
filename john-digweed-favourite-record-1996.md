@@ -9,7 +9,7 @@ permalink: /john-digweed-favourite-record-1996/
 
 ## Short answer
 
-John Digweed named **Soundsation – “Do You Feel It?”** as **one of his favourite records of 1996** during BBC Radio 1's *Essential Selection: Best of 1996* on 27 December 1996.
+John Digweed named **Soundsation – “Do You Feel It?”** as **one of his favourite records of 1996** during Pete Tong's BBC Radio 1 *Essential Selection — Best of 1996* on 27 December 1996.
 
 **[Listen to Soundsation – “Do You Feel It?” (Full Length Trance Mix, SOS 002)](https://www.youtube.com/watch?v=jHZJLkCERcM)**
 
@@ -17,11 +17,11 @@ That precise wording matters: the surviving broadcast does not establish it as h
 
 ## The contemporary evidence
 
-### John Digweed — BBC Radio 1, 27 December 1996
+### John Digweed — Pete Tong's BBC Radio 1 *Essential Selection: Best of 1996*, 27 December 1996
 
 > “1996 has been a great year for me… as well as that I've been promoting the *Northern Exposure* album in America and the UK, which has both been really successful. I think one of my favourite records of this year is a track by Soundsation and it's called *Do You Feel It?*. Hope you like it, have a good Christmas and a happy new year.”
 
-[Hear the surviving BBC Radio 1 recording](https://www.youtube.com/watch?v=6t_LarGg6Ao).
+[Hear the actual *Essential Selection — Best of 1996* clip](https://www.youtube.com/watch?v=uVDa0HVZVjc).
 
 ### Pete Tong — BBC Radio 1 *Essential Selection*, 7 February 1997
 
@@ -60,7 +60,7 @@ Together, Cream and Toronto document the record in Sasha's club sets on both sid
 | 15 June 1996 | Sasha plays “Do You Feel It?” at Cream, Liverpool | The record was part of Sasha's club sound during the *Northern Exposure* year |
 | 27 September 1996 | *Northern Exposure* is released | The home-listening document of the same progressive-house period |
 | 28 November 1996 | Sasha plays “Do You Feel It?” at Better Days/Good Life, Toronto | Canadian club support during the *Northern Exposure* campaign |
-| 27 December 1996 | Digweed selects “Do You Feel It?” on BBC Radio 1 immediately after discussing the *Northern Exposure* campaign | A direct contemporary link between the record and Digweed's 1996 |
+| 27 December 1996 | Digweed selects “Do You Feel It?” on Pete Tong's BBC Radio 1 *Essential Selection: Best of 1996*, immediately after discussing the *Northern Exposure* campaign | A direct contemporary link between the record and Digweed's 1996 |
 | 7 February 1997 | Pete Tong calls it Digweed's “big tune of ’96” on BBC Radio 1's *Essential Selection* | Independent on-air confirmation of its standing in Digweed's sets |
 | 7 June 1998 | The later Stress release led by the Chris & James Solar Power Remix reaches number 39 on the Official UK Dance Singles Chart | Commercial chart recognition almost two years after the original club support |
 
@@ -92,7 +92,7 @@ This is a **documented cultural and chronological link**, not a tracklisting cla
     "name": "What was John Digweed's favourite record of 1996?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "On BBC Radio 1 on 27 December 1996, John Digweed named Soundsation's Do You Feel It? as one of his favourite records of 1996. Sasha played it at Cream, Liverpool, on 15 June and at Better Days/Good Life, Toronto, on 28 November during the Northern Exposure year. On 7 February 1997, Pete Tong described it as John Digweed's big tune of '96. This is a chronological and cultural link; the track did not appear on Northern Exposure."
+      "text": "On Pete Tong's BBC Radio 1 Essential Selection — Best of 1996 on 27 December 1996, John Digweed named Soundsation's Do You Feel It? as one of his favourite records of 1996. Sasha played it at Cream, Liverpool, on 15 June and at Better Days/Good Life, Toronto, on 28 November during the Northern Exposure year. On 7 February 1997, Pete Tong described it as John Digweed's big tune of '96. This is a chronological and cultural link; the track did not appear on Northern Exposure."
     }
   }
 }

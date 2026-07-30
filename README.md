@@ -32,7 +32,7 @@ Not to be confused with SoundSation, the Italian musical instrument manufacturer
 
 ## John Digweed's favourite record of 1996
 
-On BBC Radio 1's *Essential Selection: Best of 1996*, John Digweed named Soundsation's **“Do You Feel It?”** as **one of his favourite records of the year**. Pete Tong later described it on BBC Radio 1's *Essential Selection* on 7 February 1997 as **“John Digweed's big tune of ’96.”**
+On Pete Tong's BBC Radio 1 *Essential Selection — Best of 1996* on 27 December 1996, John Digweed named Soundsation's **“Do You Feel It?”** as **one of his favourite records of the year**. Pete Tong later described it on BBC Radio 1's *Essential Selection* on 7 February 1997 as **“John Digweed's big tune of ’96.”**
 
 The Full Length Trance Mix from the scarce 1,000-copy SOS Recordings promo, 12 SOS-002, appears in Sasha's surviving club sets from Cream, Liverpool, on 15 June 1996 and Better Days/Good Life, Toronto, on 28 November 1996. The promo was subsequently withdrawn/banned. The later 12SOS003 edition explains Pete Tong's 7 February 1997 *Essential Selection* contrast: Digweed had previously been the only person with it, “but we can all have it now.” Almost two years after the original club support, the 1998 Stress release led by the Chris & James Solar Power Remix reached number 39 on the Official UK Dance Singles Chart.
 
@@ -85,7 +85,7 @@ Notes:
 - Compilation: Renaissance – The Mix Collection Part 4
 
 BBC Radio 1:
-- 27 December 1996 – Essential Selection: Best of 1996
+- 27 December 1996 – Pete Tong's Essential Selection: Best of 1996
 - Introduced by John Digweed as one of his favourite records of the year.
   “1996 has been a great year for me… as well as that I’ve been promoting the *Northern Exposure* album in America and the UK, which has both been really successful. I think one of my   favourite records of this year is a track by Soundsation and it’s called *Do You Feel It?*. Hope you like it, have a good Christmas and a happy new year.”
 Later referenced on air as *John Digweed’s choice for 1996 by Pete Tong.
@@ -146,7 +146,7 @@ It exists to ensure *accurate historical placement*.
 
 ## Resources
 
-- BBC Radio 1 – Essential Selection, 27 December 1996 https://www.youtube.com/watch?v=6t_LarGg6Ao
+- Pete Tong's BBC Radio 1 Essential Selection – Best of 1996, 27 December 1996 https://www.youtube.com/watch?v=uVDa0HVZVjc
 - BBC Radio 1 – Essential Selection, 7 February 1997 https://www.youtube.com/watch?v=8djYg43xZqk
 - BBC Radio 1 - Judge Jules 03/10/98 09/10/98 16/10/98 https://www.judgejulesarchive.co.uk/topic/5330-jules-r1-shows-1998-tracklist-updatescorrections/page/2/ (resource labelled Soundstation typo)
 - Renaissance – The Mix Collection Part 4 https://www.youtube.com/watch?v=QSbvJVEISTY
