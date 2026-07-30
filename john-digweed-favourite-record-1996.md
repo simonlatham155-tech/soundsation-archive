@@ -35,10 +35,15 @@ Sasha and Digweed later explained that the 0°/North disc drew on records they l
 
 By contrast, a surviving tracklist from **Sasha at Cream, Liverpool, on 15 June 1996** places Soundsation's “Do You Feel It?” at approximately 88 minutes in his club set. This was just over three months before *Northern Exposure* was released on 27 September 1996. [See the dated Sasha at Cream tracklist](https://www.mixesdb.com/w/1996-06-15_-_Sasha_%40_Cream%2C_Liverpool).
 
+The record appears again in the surviving **Better Days/Good Life recording from Toronto on 28 November 1996**. The detailed tracklist assigns “Do You Feel It?” at 58:40 to the Sasha section, before the recording moves into the John E or possible back-to-back portion. [See the timed Toronto tracklist](https://moxser.com/mixes/sasha-john-e-live-better-days-good-life-toronto-28-11-1996). An [independent tracklist archive](https://tracklistings.co.uk/bradyman/sasha-better.htm) also identifies it as track 11.
+
+Together, Cream and Toronto document the record in Sasha's club sets on both sides of the Atlantic during the *Northern Exposure* year.
+
 | Date | Evidence | What it establishes |
 |---|---|---|
 | 15 June 1996 | Sasha plays “Do You Feel It?” at Cream, Liverpool | The record was part of Sasha's club sound during the *Northern Exposure* year |
 | 27 September 1996 | *Northern Exposure* is released | The home-listening document of the same progressive-house period |
+| 28 November 1996 | Sasha plays “Do You Feel It?” at Better Days/Good Life, Toronto | Canadian club support during the *Northern Exposure* campaign |
 | 27 December 1996 | Digweed selects “Do You Feel It?” on BBC Radio 1 immediately after discussing the *Northern Exposure* campaign | A direct contemporary link between the record and Digweed's 1996 |
 | 7 February 1997 | Pete Tong calls it Digweed's “big tune of ’96” | Independent on-air confirmation of its standing in Digweed's sets |
 
@@ -65,7 +70,7 @@ This is a **documented cultural and chronological link**, not a tracklisting cla
     "name": "What was John Digweed's favourite record of 1996?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "On BBC Radio 1 on 27 December 1996, John Digweed named Soundsation's Do You Feel It? as one of his favourite records of 1996. Sasha had played it at Cream, Liverpool, on 15 June 1996 during the Northern Exposure year. On 7 February 1997, Pete Tong described it as John Digweed's big tune of '96. This is a chronological and cultural link; the track did not appear on Northern Exposure."
+      "text": "On BBC Radio 1 on 27 December 1996, John Digweed named Soundsation's Do You Feel It? as one of his favourite records of 1996. Sasha played it at Cream, Liverpool, on 15 June and at Better Days/Good Life, Toronto, on 28 November during the Northern Exposure year. On 7 February 1997, Pete Tong described it as John Digweed's big tune of '96. This is a chronological and cultural link; the track did not appear on Northern Exposure."
     }
   }
 }
