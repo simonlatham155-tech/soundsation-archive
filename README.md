@@ -34,7 +34,9 @@ Not to be confused with SoundSation, the Italian musical instrument manufacturer
 
 On BBC Radio 1's *Essential Selection: Best of 1996*, John Digweed named Soundsation's **“Do You Feel It?”** as **one of his favourite records of the year**. Pete Tong later described it on air as **“John Digweed's big tune of ’96.”**
 
-[Read the dated broadcast evidence, exact wording and Northern Exposure context](https://simonlatham155-tech.github.io/soundsation-archive/john-digweed-favourite-record-1996/).
+The record also appears in Sasha's surviving Cream, Liverpool set from 15 June 1996. This places it on the club floor during the same period that Sasha and Digweed were shaping *Northern Exposure* as a home-listening and after-hours journey.
+
+[Read the dated broadcast evidence, Sasha club-set evidence and Northern Exposure context](https://simonlatham155-tech.github.io/soundsation-archive/john-digweed-favourite-record-1996/).
 
 ---
 
