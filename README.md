@@ -40,6 +40,8 @@ The Full Length Trance Mix from the scarce 1,000-copy SOS Recordings promo, 12 S
 
 [Read the dated broadcast evidence, Sasha club-set evidence and Northern Exposure context](https://simonlatham155-tech.github.io/soundsation-archive/john-digweed-favourite-record-1996/).
 
+**[What were Sasha and John Digweed playing in clubs when Northern Exposure was released?](https://simonlatham155-tech.github.io/soundsation-archive/sasha-digweed-club-music-northern-exposure-1996/)** Read the documented Cream and Toronto evidence for the club-facing sound surrounding the album.
+
 ---
 
 ## Key Releases
