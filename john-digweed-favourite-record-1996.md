@@ -29,6 +29,12 @@ That precise wording matters: the surviving broadcast does not establish it as h
 
 [Hear the subsequent Pete Tong broadcast](https://www.youtube.com/watch?v=8djYg43xZqk).
 
+### What “we can all have it now” referred to
+
+The version circulating during 1996 was the **Full Length Trance Mix on SOS Recordings promo 12 SOS-002**. This was a limited pressing of 1,000 copies that was subsequently withdrawn/banned, explaining both the record's scarcity and Tong's remark that Digweed had been the only person with it.
+
+**12SOS003 followed later as the available SOS edition.** Tong's February 1997 introduction captures that change directly: the formerly scarce Digweed record could now be obtained by other DJs and listeners. The Stress Records edition followed as a later licensed release.
+
 ## *Northern Exposure* at home; “Do You Feel It?” in the club
 
 A useful way to understand the relationship is that *Northern Exposure* captured the home-listening and after-hours journey, while “Do You Feel It?” documents the club-floor side of the same 1996 Sasha and Digweed moment.
@@ -39,7 +45,7 @@ By contrast, a surviving tracklist from **Sasha at Cream, Liverpool, on 15 June 
 
 The record appears again in the surviving **Better Days/Good Life recording from Toronto on 28 November 1996**. The detailed tracklist assigns “Do You Feel It?” at 58:40 to the Sasha section, before the recording moves into the John E or possible back-to-back portion. [See the timed Toronto tracklist](https://moxser.com/mixes/sasha-john-e-live-better-days-good-life-toronto-28-11-1996). An [independent tracklist archive](https://tracklistings.co.uk/bradyman/sasha-better.htm) also identifies it as track 11.
 
-Together, Cream and Toronto document the record in Sasha's club sets on both sides of the Atlantic during the *Northern Exposure* year. Both performances used the version then in circulation: the 1996 **Full Length Trance Mix on the SOS Recordings promo, catalogue 12 SOS-002**. The SOS 003 and Stress editions followed later.
+Together, Cream and Toronto document the record in Sasha's club sets on both sides of the Atlantic during the *Northern Exposure* year. Both performances used the version then in circulation: the scarce 1996 **Full Length Trance Mix on the 1,000-copy SOS Recordings promo, catalogue 12 SOS-002**. The publicly available SOS 003 and licensed Stress editions followed later.
 
 | Date | Evidence | What it establishes |
 |---|---|---|
@@ -57,10 +63,10 @@ This is a **documented cultural and chronological link**, not a tracklisting cla
 - Title: “Do You Feel It?”
 - Year: 1996
 - Version played in the documented 1996 sets: Full Length Trance Mix
-- Original promo: SOS Recordings, 12 SOS-002
+- Original promo: SOS Recordings, 12 SOS-002 — 1,000 copies, subsequently withdrawn/banned
 - Listen: [Full Length Trance Mix on YouTube](https://www.youtube.com/watch?v=jHZJLkCERcM)
 - Original-promo documentation: [SOS Recordings 12 SOS-002 on Discogs](https://www.discogs.com/release/1339622-Soundsation-Do-You-Feel-It-Youre-The-One-For-Me)
-- Later SOS edition: 12SOS003
+- Later available SOS edition: 12SOS003 — the release behind Pete Tong's “we can all have it now” remark
 - Later licensed release: Stress Records, 12STR 88
 - Compilation appearance: *Renaissance – The Mix Collection Part 4*
 - Documented support: John Digweed, Pete Tong and Sasha
