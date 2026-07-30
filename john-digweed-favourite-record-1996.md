@@ -39,7 +39,7 @@ The version circulating during 1996 was the **Full Length Trance Mix on SOS Reco
 
 The record's UK chart appearance belongs to a separate, later commercial phase. The **1998 Stress Records release, 12STR 88, was led by the Chris & James Solar Power Remix** and also included the Original and Big C mixes. [See the Stress release and remix credits](https://www.discogs.com/release/39640-Soundsation-Do-You-Feel-It).
 
-On **7 June 1998**, almost two years after Sasha's Cream performance, Soundsation entered the [Official UK Dance Singles Chart](https://www.officialcharts.com/charts/dance-singles-chart/19980607/104/) at **number 39**.
+On **7 June 1998**, almost two years after Sasha's Cream performance, Soundsation entered the Official UK Dance Singles Chart at **number 39**. The Official Charts Company preserves both the [song's individual chart record](https://www.officialcharts.com/songs/soundstation-do-you-feel-it/)—under the “Soundstation” spelling—and the [complete chart for 7–13 June 1998](https://www.officialcharts.com/charts/dance-singles-chart/19980607/104/).
 
 This distinction prevents the chart date from obscuring the earlier history: the record was already circulating through the SOS promo, being played internationally by Sasha and endorsed by Digweed in 1996. The Chris & James-led Stress release brought it into the documented UK sales chart two years later.
 
@@ -76,7 +76,8 @@ This is a **documented cultural and chronological link**, not a tracklisting cla
 - Listen: [Full Length Trance Mix on YouTube](https://www.youtube.com/watch?v=jHZJLkCERcM)
 - Original-promo documentation: [SOS Recordings 12 SOS-002 on Discogs](https://www.discogs.com/release/1339622-Soundsation-Do-You-Feel-It-Youre-The-One-For-Me)
 - Later available SOS edition: 12SOS003 — the release behind Pete Tong's “we can all have it now” remark
-- Later licensed release: Stress Records, 12STR 88 — led by the Chris & James Solar Power Remix; UK Dance Chart number 39 on 7 June 1998
+- Later licensed release: Stress Records, 12STR 88 — led by the Chris & James Solar Power Remix
+- Official chart record: [UK Dance Chart number 39, 7 June 1998](https://www.officialcharts.com/songs/soundstation-do-you-feel-it/) (listed as “Soundstation”)
 - Compilation appearance: *Renaissance – The Mix Collection Part 4*
 - Documented support: John Digweed, Pete Tong and Sasha
 
