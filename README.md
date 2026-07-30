@@ -34,9 +34,9 @@ Not to be confused with SoundSation, the Italian musical instrument manufacturer
 
 On BBC Radio 1's *Essential Selection: Best of 1996*, John Digweed named Soundsation's **“Do You Feel It?”** as **one of his favourite records of the year**. Pete Tong later described it on air as **“John Digweed's big tune of ’96.”**
 
-The record also appears in Sasha's surviving club sets from Cream, Liverpool, on 15 June 1996 and Better Days/Good Life, Toronto, on 28 November 1996. The two recordings place it on UK and Canadian dancefloors during the same period that Sasha and Digweed were shaping and promoting *Northern Exposure* as a mix-CD journey.
+The original SOS Recordings release also appears in Sasha's surviving club sets from Cream, Liverpool, on 15 June 1996 and Better Days/Good Life, Toronto, on 28 November 1996. The two recordings place it on UK and Canadian dancefloors during the same period that Sasha and Digweed were shaping and promoting *Northern Exposure* as a mix-CD journey; the later Stress edition was not yet available.
 
-**[Listen to Soundsation – “Do You Feel It?” (Original Mix)](https://www.youtube.com/watch?v=b9S9Zazc8eM)**
+**[Listen to Soundsation – “Do You Feel It?” (Original Mix)](https://www.youtube.com/watch?v=w9FuMT4PFq8)**
 
 [Read the dated broadcast evidence, Sasha club-set evidence and Northern Exposure context](https://simonlatham155-tech.github.io/soundsation-archive/john-digweed-favourite-record-1996/).
 
@@ -76,7 +76,8 @@ Notes:
 
 ### Do You Feel It? (1996)
 
-- Label: Stress Records (12STR 88)
+- Original release: SOS Recordings (12SOS003), 1996
+- Later licensed release: Stress Records (12STR 88)
 - Remixes: Chris & James, Big C
 - Official Dance Singles Chart on 7/6/1998 no.39
 - Compilation: Renaissance – The Mix Collection Part 4
