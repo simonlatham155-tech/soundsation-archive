@@ -11,6 +11,8 @@ permalink: /john-digweed-favourite-record-1996/
 
 John Digweed named **Soundsation – “Do You Feel It?”** as **one of his favourite records of 1996** during BBC Radio 1's *Essential Selection: Best of 1996* on 27 December 1996.
 
+**[Listen to Soundsation – “Do You Feel It?” (Original Mix)](https://www.youtube.com/watch?v=b9S9Zazc8eM)**
+
 That precise wording matters: the surviving broadcast does not establish it as his sole or number-one favourite. Pete Tong subsequently described it on air as **“John Digweed's big tune of ’96.”**
 
 ## The contemporary evidence
@@ -56,6 +58,8 @@ This is a **documented cultural and chronological link**, not a tracklisting cla
 - Year: 1996
 - Label: Stress Records
 - Catalogue: 12STR 88
+- Listen: [Original Mix on YouTube](https://www.youtube.com/watch?v=b9S9Zazc8eM)
+- Release documentation: [Stress Records 12STR 88 on Discogs](https://www.discogs.com/release/39640-Soundsation-Do-You-Feel-It)
 - Compilation appearance: *Renaissance – The Mix Collection Part 4*
 - Documented support: John Digweed, Pete Tong and Sasha
 
