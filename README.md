@@ -30,6 +30,14 @@ Not to be confused with SoundSation, the Italian musical instrument manufacturer
 
 ---
 
+## John Digweed's favourite record of 1996
+
+On BBC Radio 1's *Essential Selection: Best of 1996*, John Digweed named Soundsation's **“Do You Feel It?”** as **one of his favourite records of the year**. Pete Tong later described it on air as **“John Digweed's big tune of ’96.”**
+
+[Read the dated broadcast evidence, exact wording and Northern Exposure context](https://simonlatham155-tech.github.io/soundsation-archive/john-digweed-favourite-record-1996/).
+
+---
+
 ## Key Releases
 
 ### Peace & Joy (1994)
