@@ -146,7 +146,7 @@ It exists to ensure *accurate historical placement*.
 
 ## Resources
 
-- BBC Radio 1 – Essential Selection, 27 December 1996 https://www.youtube.com/watch?v=6t_LarGg6Ao
+- BBC Radio 1 – Essential Selection, 27 December 1996 https://www.youtube.com/watch?v=uVDa0HVZVjc
 - BBC Radio 1 – Essential Selection, 7 February 1997 https://www.youtube.com/watch?v=8djYg43xZqk
 - BBC Radio 1 - Judge Jules 03/10/98 09/10/98 16/10/98 https://www.judgejulesarchive.co.uk/topic/5330-jules-r1-shows-1998-tracklist-updatescorrections/page/2/ (resource labelled Soundstation typo)
 - Renaissance – The Mix Collection Part 4 https://www.youtube.com/watch?v=QSbvJVEISTY
