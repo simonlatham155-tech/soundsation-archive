@@ -36,6 +36,8 @@ On BBC Radio 1's *Essential Selection: Best of 1996*, John Digweed named Soundsa
 
 The record also appears in Sasha's surviving club sets from Cream, Liverpool, on 15 June 1996 and Better Days/Good Life, Toronto, on 28 November 1996. The two recordings place it on UK and Canadian dancefloors during the same period that Sasha and Digweed were shaping and promoting *Northern Exposure* as a mix-CD journey.
 
+**[Listen to Soundsation – “Do You Feel It?” (Original Mix)](https://www.youtube.com/watch?v=b9S9Zazc8eM)**
+
 [Read the dated broadcast evidence, Sasha club-set evidence and Northern Exposure context](https://simonlatham155-tech.github.io/soundsation-archive/john-digweed-favourite-record-1996/).
 
 ---
