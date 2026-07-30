@@ -23,17 +23,17 @@ That precise wording matters: the surviving broadcast does not establish it as h
 
 [Hear the surviving BBC Radio 1 recording](https://www.youtube.com/watch?v=6t_LarGg6Ao).
 
-### Pete Tong — BBC Radio 1, 7 February 1997
+### Pete Tong — BBC Radio 1 *Essential Selection*, 7 February 1997
 
 > “I do believe that was John Digweed's big tune of ’96 actually — Soundsation ‘Do You Feel It?’. Mainly because he was the only one that had it, but we can all have it now.”
 
-[Hear the subsequent Pete Tong broadcast](https://www.youtube.com/watch?v=8djYg43xZqk).
+[Hear the subsequent BBC Radio 1 *Essential Selection* broadcast](https://www.youtube.com/watch?v=8djYg43xZqk).
 
 ### What “we can all have it now” referred to
 
 The version circulating during 1996 was the **Full Length Trance Mix on SOS Recordings promo 12 SOS-002**. This was a limited pressing of 1,000 copies that was subsequently withdrawn/banned, explaining both the record's scarcity and Tong's remark that Digweed had been the only person with it.
 
-**12SOS003 followed later as the available SOS edition.** Tong's February 1997 introduction captures that change directly: the formerly scarce Digweed record could now be obtained by other DJs and listeners. The Stress Records edition followed as a later licensed release.
+**12SOS003 followed later as the available SOS edition.** Tong's 7 February 1997 *Essential Selection* introduction captures that change directly: the formerly scarce Digweed record could now be obtained by other DJs and listeners. The Stress Records edition followed as a later licensed release.
 
 ## *Northern Exposure* at home; “Do You Feel It?” in the club
 
@@ -53,7 +53,7 @@ Together, Cream and Toronto document the record in Sasha's club sets on both sid
 | 27 September 1996 | *Northern Exposure* is released | The home-listening document of the same progressive-house period |
 | 28 November 1996 | Sasha plays “Do You Feel It?” at Better Days/Good Life, Toronto | Canadian club support during the *Northern Exposure* campaign |
 | 27 December 1996 | Digweed selects “Do You Feel It?” on BBC Radio 1 immediately after discussing the *Northern Exposure* campaign | A direct contemporary link between the record and Digweed's 1996 |
-| 7 February 1997 | Pete Tong calls it Digweed's “big tune of ’96” | Independent on-air confirmation of its standing in Digweed's sets |
+| 7 February 1997 | Pete Tong calls it Digweed's “big tune of ’96” on BBC Radio 1's *Essential Selection* | Independent on-air confirmation of its standing in Digweed's sets |
 
 This is a **documented cultural and chronological link**, not a tracklisting claim: “Do You Feel It?” did not appear on *Northern Exposure*. The evidence supports describing it as a club-side companion to the mix-CD era, as well as one of John Digweed's favourite records of 1996.
 
